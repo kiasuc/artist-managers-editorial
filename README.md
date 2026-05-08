@@ -4,12 +4,12 @@ A longform editorial feature on artist management in the electronic music indust
 
 ## About
 
-This piece profiles three rising music managers — Kamran Khan, Jake Horovitz, and Ryan MacAvoy — and explores what the job of artist management actually looks like from the inside. Through in-depth interviews, the feature covers how they got into the industry, how they structure their days, how the rise of TikTok and streaming has changed their work, and what it takes to build a career in one of music's least understood roles.
+This piece profiles three rising music managers — Kamran Khan, Jake Horvitz, and Ryan MacAvoy — and explores what the job of artist management actually looks like from the inside. Through in-depth interviews, the feature covers how they got into the industry, how they structure their days, how the rise of TikTok and streaming has changed their work, and what it takes to build a career in one of music's least understood roles.
 
 ## Subjects
 
 - **Kamran Khan** — manages Laszewo and Distant Matter
-- **Jake Horovitz** — manages DJ Mandy
+- **Jake Horvitz** — manages DJ Mandy
 - **Ryan MacAvoy** — manages Coastal, Conrad, and Twin Diplomacy
 
 ## Course
