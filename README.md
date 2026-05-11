@@ -10,7 +10,7 @@ This piece profiles three rising music managers — Kamran Khan, Jake Horvitz, a
 
 - **Kamran Khan** — manages Laszewo and Distant Matter
 - **Jake Horvitz** — manages DJ Mandy
-- **Ryan MacAvoy** — manages Coastal, Conrad, and Twin Diplomacy
+- **Ryan MacAvoy** — manages Koastle, Conrad., and Twin Diplomacy
 
 ## Course
 
